@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1906px" height="469px" viewBox="0 0 1906 469" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Header </title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="8.11998778%" x2="6.54789752%" y2="94.9476031%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#BEC9F5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#F1F4F7" offset="0%"></stop>
+            <stop stop-color="#F3F9FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="8.44196817%" x2="6.54789752%" y2="94.6020385%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#BEC9F5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="8.29704053%" x2="6.54789752%" y2="94.7575817%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#BEC9F5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="6.18582821%" x2="6.54789752%" y2="97.0234343%" id="linearGradient-5">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#BEC9F5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="ASMT_Dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-assessment_new-Copy-2" transform="translate(-64.000000, -18.000000)">
+            <g id="Group-36" transform="translate(64.000000, 18.000000)">
+                <g id="Header-">
+                    <g id="Header">
+                        <g id="Group-35">
+                            <g id="Group-37">
+                                <ellipse id="Oval" fill="url(#linearGradient-1)" transform="translate(1634.500000, 144.500000) scale(1, -1) translate(-1634.500000, -144.500000) " cx="1634.5" cy="144.5" rx="112" ry="109.5"></ellipse>
+                                <path d="M1530.36719,184.573242 C1495.0412,221.354558 1476.76459,242.228709 1492.67884,249.892277 C1508.5931,257.555845 1585.78861,224.578966 1661.55435,163.828222 C1737.32009,103.077479 1789.1073,44.7134504 1775.3751,29.0750684 C1761.64289,13.4366863 1697.55354,53.8049356 1696.37524,53.2441406 C1694.58081,52.0603841 1693.3278,51.2602539 1692.61621,50.84375 C1713.80566,39.6482002 1775.3751,2.56505928e-12 1791.33128,21.141285 C1807.28745,42.2825699 1755.8656,97.1431216 1666.1596,169.072728 C1634.73987,194.264701 1603.78577,215.943505 1576.12593,232.68318 C1524.81257,263.737907 1484.92822,273.792427 1473.09225,258.35953 C1465.20161,248.070933 1483.43713,221.599911 1527.79883,178.946466 L1530.36719,184.573242 Z" id="Path" fill="url(#linearGradient-2)"></path>
+                                <ellipse id="Oval" fill="url(#linearGradient-3)" transform="translate(1848.500000, 413.000000) scale(1, -1) translate(-1848.500000, -413.000000) " cx="1848.5" cy="413" rx="57.5" ry="56"></ellipse>
+                                <path d="M0,120.007705 C0,186.267737 55.0597753,240 123.007897,240 L123.007897,240 C190.940225,240 246,186.267737 246,120.007705 L246,120.007705 C246,53.7322632 190.940225,0 123.007897,0 L123.007897,0 C55.0597753,0 0,53.7322632 0,120.007705" id="Fill-48" fill="url(#linearGradient-4)"></path>
+                            </g>
+                        </g>
+                        <g id="Group-2" transform="translate(1471.000000, 15.000000)"></g>
+                        <circle id="Oval" fill="url(#linearGradient-5)" transform="translate(1847.000000, 413.000000) scale(1, -1) translate(-1847.000000, -413.000000) " cx="1847" cy="413" r="56"></circle>
+                        <g id="Group" transform="translate(1791.000000, 357.000000)"></g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
